@@ -1,5 +1,11 @@
 # Change log
 
+## 1.1.0 (2020-08-15)
+
+- Don't depend on lager for logging.
+
+- Include debug info by default.
+
 ## 1.0.0 (2019-01-06)
 
 [Hex package](https://hex.pm/packages/influx_udp) is available 🎉.
